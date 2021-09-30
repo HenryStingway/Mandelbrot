@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Mandelbrotsqrt:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Mandelbrotsqrt_jar</output-path>
+    <root id="archive" name="Mandelbrotsqrt.jar">
+      <element id="module-output" name="Mandelbrotsqrt" />
+    </root>
+  </artifact>
+</component>
