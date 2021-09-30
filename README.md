@@ -1,0 +1,2 @@
+Mandelbrot Repository
+Berechnung der Konvergenzen der Mandelbrotmenge
